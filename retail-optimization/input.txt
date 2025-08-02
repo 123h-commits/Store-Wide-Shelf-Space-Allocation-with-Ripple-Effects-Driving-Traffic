@@ -1,0 +1,10 @@
+# Product ID, Name, Department, Sales Volume (λp), Impulse Rate (ip)
+1,Product1,Dept1,171,0.23
+2,Product2,Dept2,1636,0.83
+9,Bread,Bakery,5937,0.04
+23,Cigarettes,Tobacco,8297,0.71
+26,Juice,Beverages,3602,0.89
+27,Soda,Beverages,4692,0.86
+32,Cheese,Dairy,3276,0.77
+63,Vegetables,Produce,8417,0.64
+64,Water,Beverages,4167,0.02
