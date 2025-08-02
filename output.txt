@@ -1,0 +1,18 @@
+Optimization Result
+==================================================
+Current Objective: 9.380214
+Optimized Objective: 10.407684
+Improvement Percentage: 11.0%
+Computation Time: 0.0 seconds
+
+Optimized Allocation:
+Shelf ID, Shelf Type, Product ID, Product Name, Allocated Space
+17, Ordinary, 2, Product2, 1.77
+33, Freezer, 26, Juice, 3.89
+2, Ordinary, 1, Product1, 1.20
+8, Ordinary, 64, Water, 4.50
+27, Ordinary, 32, Cheese, 3.54
+13, Ordinary, 9, Bread, 6.41
+14, Ordinary, 63, Vegetables, 9.09
+30, Refrigerator, 23, Cigarettes, 8.00
+31, Refrigerator, 27, Soda, 5.07
